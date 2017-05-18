@@ -3,7 +3,7 @@
 Hello Sumo is a test project, based on the tutorial [Hello_Sumo](http://sumo.dlr.de/wiki/Tutorials).
 
 ## NOTE:
-| File Extension | Defining |
+| File Extension | Definition |
 | ------------- | ------------- |
 | `.nod.xml`  | Nodes  |
 | `.edg.xml`  | Edges  |
